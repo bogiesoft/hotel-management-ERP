@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bills>
+  <bill counter="0" token="0m8rkwnu35hoajormo17rypa4ictbj4i">
+    <item>
+      Paneer Masala
+    </item>
+    <quantity>2</quantity>
+    <price>160</price>
+    <item>biryani</item>
+    <quantity>1</quantity>
+    <price>90</price>
+  </bill>
+  <bill counter="1" token="o5p27f0v0lc5l8frah2df04y188jv2t9">
+    <item>
+      Paneer Masala
+    </item>
+    <quantity>2</quantity>
+    <price>160</price>
+    <item>biryani</item>
+    <quantity>1</quantity>
+    <price>90</price>
+  </bill>
+  <bill counter="2" token="irv3w5e3zqjpds4ifzc2k7g4qc2l0udi">
+    <item>
+      Paneer Masala
+    </item>
+    <quantity>2</quantity>
+    <price>160</price>
+    <item>biryani</item>
+    <quantity>1</quantity>
+    <price>90</price>
+    <item>Chicken Tandoori</item>
+    <quantity>2</quantity>
+    <price>200</price>
+  </bill>
+</bills>

@@ -1,0 +1,6 @@
+dashboard {
+	entry status : room status ,advanced bookings, time period
+}
+inventory{
+	food items bought quantity, rate, consumption ,wastage ,thefts
+}

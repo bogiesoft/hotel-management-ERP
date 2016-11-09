@@ -1,0 +1,35 @@
+
+.left_menu{}
+.left_menu .menu_head{ background: ##164D7C ;}
+.left_menu ul li{border-bottom:1px solid #3c312b;}
+.left_menu ul li a{color:#c6b4a0;}
+.jquerycssmenu_left ul li{border-bottom:1px solid #3c312b;}
+.jquerycssmenu_left ul li.active{background-color:#FFF; border-bottom:1px solid #3c312b;}
+.jquerycssmenu_left ul li a{color:#c6b4a0;}
+.jquerycssmenu_left ul li.active a{color:#29191c;}
+.jquerycssmenu_left ul li ul{border:1px solid #b6c0c6;background:#ffffff;}
+.jquerycssmenu_left ul li ul li{color:#51667a;background:transparent url(../images/mbg.jpg) repeat-x top right;border-bottom:1px solid #b6c0c6;}
+.jquerycssmenu_left ul li ul li.active{color:#c6b4a0;}
+.jquerycssmenu_left ul li ul li a{color:#29191c;}
+.links_tab ul li{background:#5e5452;}
+.links_tab ul li a{color:#FFF;}
+.links_tab ul li.active{background:#fff;}
+.links_tab ul li.active a{color:#271815;}
+
+.footer a{color:#c6b4a0;}
+
+.head_top,.head_top a{color:#c6b4a0; padding-top:7px;}
+
+.sitename{color:#FFF;}
+.sitename h1{text-shadow: 2px 2px 2px #271815;}
+.last_sign{color:#584a47; padding:5px;}
+
+#example td{color: #666;
+font-family: segoe ui,verdana,arial,sans-serif;
+font-size: 11px;}
+
+.dataTables_length label { font-size:12px;}
+.dataTables_length select{ font-size:12px;}
+.row-fluid { padding-top:20px; font-size:12px;padding-bottom: 5px;}
+.dataTables_info{ float:left; font-size:12px;}
+.row-fluid span6{ padding-left:50px;}

@@ -1,0 +1,25 @@
+div#popup{
+	position:relative;
+	height:50%;
+}
+div#popup input{
+ 
+  	left:40%;
+}
+div#popup textarea{
+   	left:30%;
+  	top:40%;
+}
+div#filter{
+
+	position:absolute;
+	width:80%;
+	height:15%;
+	top:10%;
+	left:9%;
+	border:1px solid #f0f;
+}
+.popup title{
+  color:blue;
+  background-color:blue;
+}

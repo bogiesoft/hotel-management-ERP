@@ -1,0 +1,14 @@
+table#stockdisplay tr td pre{
+    padding:0%;
+    padding-left:5%;
+    padding-top:4%;
+    padding-bottom:3%;
+    text-align:center;
+    cursor:pointer;
+}
+
+div.inputbtn pre {
+    padding:0%;
+    text-align:center;
+    cursor:pointer;
+}

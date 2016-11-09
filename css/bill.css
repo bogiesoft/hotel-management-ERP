@@ -1,0 +1,47 @@
+
+.mydivs{
+}
+div#bill{
+
+	float:left;
+	width:30%;
+	margin-top: 5%;
+	margin-left: 1%;
+	margin-right: 2%;
+}
+div#thanks{
+	position: absolute;
+	width: 40%;
+	left:30%;
+	top:10%;
+
+}
+div#total{
+
+	float:left;
+	width:30%;
+	margin-top: 5%;
+	margin-left: 1%;
+	margin-right: 2%;
+	
+}
+div#order{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left:0%;
+	top:0%;
+	border:none;
+
+}
+
+div#amount{
+	
+}
+.mydivs .order{
+	float:left;
+	width:30%;
+	margin-top: 5%;
+	margin-left: 1%;
+	margin-right: 2%;
+   }
